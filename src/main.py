@@ -1,7 +1,6 @@
 from pickle import APPEND
 from random import random
 from datetime import datetime
-from symbol import dictorsetmaker
 import time
 import json
 
