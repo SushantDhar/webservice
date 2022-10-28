@@ -1,3 +1,11 @@
+To run this app, 
+    1. go into webservice/src run  python3 main.py in a terminal window 
+    2. go into webservice/ In a new terminal window and run npm start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
